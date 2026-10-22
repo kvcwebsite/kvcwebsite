@@ -26,7 +26,7 @@ We provide computer repair, printer services, and a wide range of IT products. O
 
 124/13 Moo 14, San Khong Luang Road, Rop Wiang, Mueang Chiang Rai, Chiang Rai 57000, Thailand
 
-**Website:** [KVC Computer Online Store](https://store.kvc.computer/)
+**Website:** [KVC Computer](https://kvc.computer/)
 
 ## 💻 Our GitHub
 
